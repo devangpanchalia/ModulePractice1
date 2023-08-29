@@ -11,7 +11,7 @@ print(f"Square of 3 is {mathModule.square(3)}")
 
 print("Calling the qube from module")
 
-print(f"qub is {mathModule.qube(4)}")
+print(f"qub is {mathModule.qube(5)}")
       
 print("End of main program. We demod the python modules")
 
